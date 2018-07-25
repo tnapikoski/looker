@@ -26,6 +26,8 @@ explore: api {
 
 explore: auto_import_conf {}
 
+explore: blah {}
+
 explore: blobs {}
 
 explore: business_rule {
